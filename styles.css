@@ -3,6 +3,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    border: 2px black solid;
 }
 
 .flex-item {
